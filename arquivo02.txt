@@ -394,4 +394,4 @@
 /ban 2tpawesomedude16 Bot
 /ban 2tqw12345432178 Bot
 ItsBoshyTime 4,8%
-!filesay https://github.com/emaildowesley13/BanTwitchBots/blob/main/arquivo03.txt
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo03.txt

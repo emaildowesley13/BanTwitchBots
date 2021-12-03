@@ -393,3 +393,5 @@
 /ban iawesomedude157 Bot
 /ban ibambou66644 Bot
 /ban ibbambou66619 Bot
+ItsBoshyTime 59,5%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo26.txt

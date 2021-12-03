@@ -393,3 +393,5 @@
 /ban 8ebgalante51 Bot
 /ban 8ebiscotte711 Bot
 /ban 8ebmariofan255 Bot
+ItsBoshyTime 30,9%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo14.txt

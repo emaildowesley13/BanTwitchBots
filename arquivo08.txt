@@ -393,3 +393,5 @@
 /ban 6cthefray108 Bot
 /ban 6ctinterweb1258 Bot
 /ban 6ctpokemon19965 Bot
+ItsBoshyTime 19,0%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo09.txt

@@ -393,3 +393,5 @@
 /ban 7tps3ydkzyo96 Bot
 /ban 7tqknuckles16 Bot
 /ban 7trandrzej17 Bot
+ItsBoshyTime 28,6%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo13.txt

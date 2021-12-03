@@ -393,3 +393,5 @@
 /ban op1qazwsxc81 Bot
 /ban op51dmustang21 Bot
 /ban opabc1233163821421 Bot
+ItsBoshyTime 73,8%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo32.txt

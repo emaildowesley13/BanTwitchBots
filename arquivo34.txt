@@ -393,3 +393,5 @@
 /ban s0408yach49 Bot
 /ban s1a2a3a4a45 Bot
 /ban s7r31fdbu14 Bot
+ItsBoshyTime 80,9%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo35.txt

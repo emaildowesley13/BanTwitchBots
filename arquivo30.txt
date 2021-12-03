@@ -26,7 +26,6 @@
 /ban mllachlan223 Bot
 /ban mllacrobate3998 Bot
 /ban mlmetall1234548 Bot
-/ban mlolpwned12332 Bot
 /ban mlolpwned12375 Bot
 /ban mltrooper746 Bot
 /ban mm05b3298f9 Bot
@@ -393,3 +392,5 @@
 /ban nmenina0918 Bot
 /ban nmert171763 Bot
 /ban nmetall1234512 Bot
+ItsBoshyTime 71,4%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo31.txt

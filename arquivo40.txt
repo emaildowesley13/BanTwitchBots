@@ -393,3 +393,5 @@
 /ban yqbassie124 Bot
 /ban yqbutterfly123430 Bot
 /ban yqcaiman12382 Bot
+ItsBoshyTime 95,2%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo41.txt

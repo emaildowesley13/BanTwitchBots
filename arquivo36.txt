@@ -393,3 +393,5 @@
 /ban uelegendary12 Bot
 /ban ueluka1709200609 Bot
 /ban uemada200181 Bot
+ItsBoshyTime 85,7%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo37.txt

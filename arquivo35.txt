@@ -393,3 +393,5 @@
 /ban tcookie12300 Bot
 /ban tcookie12352 Bot
 /ban tcpedersen12 Bot
+ItsBoshyTime 83,3%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo36.txt

@@ -393,3 +393,5 @@
 /ban etsniskers6244 Bot
 /ban ett0byd0g111 Bot
 /ban eu05b3298f5 Bot
+ItsBoshyTime 52,4%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo23.txt

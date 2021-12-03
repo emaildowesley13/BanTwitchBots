@@ -393,3 +393,5 @@
 /ban 8yqwerty225506 Bot
 /ban 8yruntime30 Bot
 /ban 8ysabueso2781 Bot
+ItsBoshyTime 35,7%
+!filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/arquivo16.txt
