@@ -393,5 +393,4 @@
 /ban fxtigger199220 Bot
 /ban fxtraceur69 Bot
 /ban fxunwantedsex12347 Bot
-ItsBoshyTime 54,7% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo24.txt

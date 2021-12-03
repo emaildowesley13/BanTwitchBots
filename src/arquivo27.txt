@@ -393,5 +393,4 @@
 /ban kfw22dqeei29 Bot
 /ban kg0uches5758 Bot
 /ban kgalante557 Bot
-ItsBoshyTime 64,3% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo28.txt

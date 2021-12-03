@@ -35,7 +35,6 @@
 /ban ictennis199294 Bot
 /ban icvwkxam2123 Bot
 /ban id7mrvwkkdxw961 Bot
-/ban idaleman108 Bot
 /ban idavengers201347 Bot
 /ban idcaleb45dennis31 Bot
 /ban idferganiki1237 Bot
@@ -393,5 +392,4 @@
 /ban jdntinosgate72 Bot
 /ban jdoena500005 Bot
 /ban jdpedersen15 Bot
-ItsBoshyTime 61,9% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo27.txt

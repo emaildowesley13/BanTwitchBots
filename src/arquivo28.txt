@@ -393,5 +393,4 @@
 /ban lk1k2k3l1r156 Bot
 /ban lk24b13lk70 Bot
 /ban lk1597532lra77 Bot
-ItsBoshyTime 66,6% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo29.txt

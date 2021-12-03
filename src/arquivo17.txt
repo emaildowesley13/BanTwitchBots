@@ -393,5 +393,4 @@
 /ban 9spedersen192 Bot
 /ban 9spokenin333 Bot
 /ban 9sppineapple2284 Bot
-ItsBoshyTime 40,5% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo18.txt

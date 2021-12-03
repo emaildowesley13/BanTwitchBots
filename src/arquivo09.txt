@@ -13,7 +13,6 @@
 /ban 6dharobikes192 Bot
 /ban 6dhialter146 Bot
 /ban 6dhnasersi123466 Bot
-/ban 6diboomer543 Bot
 /ban 6djalice200467 Bot
 /ban 6djeminem33386 Bot
 /ban 6djla238689008 Bot
@@ -393,5 +392,4 @@
 /ban 6odp1220096 Bot
 /ban 6oeelopento2206 Bot
 /ban 6oepanzer22201 Bot
-ItsBoshyTime 21,4% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo10.txt

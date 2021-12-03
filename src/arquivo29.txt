@@ -393,5 +393,4 @@
 /ban mjtheantisocial3212 Bot
 /ban mjundia1803199493 Bot
 /ban mk9744121p81 Bot
-ItsBoshyTime 69,0% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo30.txt

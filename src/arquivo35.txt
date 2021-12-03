@@ -34,8 +34,6 @@
 /ban sbruins12367 Bot
 /ban sbruins12392 Bot
 /ban sbsp33df1ght19921 Bot
-/ban scacm1pete36 Bot
-/ban scaleb45dennis8 Bot
 /ban scasa114127 Bot
 /ban scasa114131 Bot
 /ban scblink18259 Bot
@@ -393,5 +391,4 @@
 /ban tcookie12300 Bot
 /ban tcookie12352 Bot
 /ban tcpedersen12 Bot
-ItsBoshyTime 83,3% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo36.txt

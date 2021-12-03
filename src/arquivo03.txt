@@ -70,7 +70,6 @@
 /ban 3gcaraculo19781 Bot
 /ban 3gcrazyman1009 Bot
 /ban 3gcrodrigo200252 Bot
-/ban 3gdpapa21120160 Bot
 /ban 3gdragonex175 Bot
 /ban 3geclipse220 Bot
 /ban 3gfumarola17 Bot
@@ -393,5 +392,4 @@
 /ban 3opadams20003 Bot
 /ban 3ophialter17 Bot
 /ban 3opoxex99665 Bot
-ItsBoshyTime 7,1% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo04.txt

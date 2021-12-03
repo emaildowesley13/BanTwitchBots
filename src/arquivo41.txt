@@ -20,6 +20,9 @@
 /ban yrkroolik913 Bot
 /ban yrloli123402 Bot
 /ban yrmailliw1239 Bot
+/ban yrmariofan259 Bot
+/ban yrmelodica189 Bot
+/ban yrob2009199587 Bot
 /ban yrserik12376 Bot
 /ban ys3ydkzyo92 Bot
 /ban ys8ybj2qvi30 Bot
@@ -390,5 +393,4 @@
 /ban zschelsea165 Bot
 /ban zscooter576 Bot
 /ban zsds12167827 Bot
-ItsBoshyTime 97,6% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo42.txt

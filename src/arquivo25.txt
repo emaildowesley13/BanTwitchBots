@@ -89,7 +89,6 @@
 /ban hgcabezon18 Bot
 /ban hgdoom20994 Bot
 /ban hgds1216785 Bot
-/ban hgedasgu2404 Bot
 /ban hgian2606885 Bot
 /ban hgjudd123463 Bot
 /ban hgmenina094 Bot
@@ -393,5 +392,4 @@
 /ban iawesomedude157 Bot
 /ban ibambou66644 Bot
 /ban ibbambou66619 Bot
-ItsBoshyTime 59,5% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo26.txt

@@ -140,6 +140,8 @@
 /ban mspolarice169 Bot
 /ban msteven267195270 Bot
 /ban msurfer195384 Bot
+/ban mt411yrrah56 Bot
+/ban mt7198342151s5 Bot
 /ban mtbart199736 Bot
 /ban mthumper175 Bot
 /ban mtiant122220 Bot
@@ -391,5 +393,4 @@
 /ban nmenina0918 Bot
 /ban nmert171763 Bot
 /ban nmetall1234512 Bot
-ItsBoshyTime 71,4% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo31.txt

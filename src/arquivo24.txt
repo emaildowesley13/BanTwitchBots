@@ -15,6 +15,8 @@
 /ban fz0408yach0 Bot
 /ban fzchudy1277 Bot
 /ban fzelementalx079 Bot
+/ban fzffooggyy112 Bot
+/ban fziomek124 Bot
 /ban fzjimenez2359 Bot
 /ban fzjune161183 Bot
 /ban fzkataja1232 Bot
@@ -391,5 +393,4 @@
 /ban hahombre123415 Bot
 /ban hanagytata9891 Bot
 /ban handersps313 Bot
-ItsBoshyTime 57,1% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo25.txt

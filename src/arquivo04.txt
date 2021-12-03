@@ -393,5 +393,4 @@
 /ban 4kxdarla00003 Bot
 /ban 4kzbaumhaus131 Bot
 /ban 4kzdanil199596 Bot
-ItsBoshyTime 9,5% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo05.txt

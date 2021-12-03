@@ -38,6 +38,7 @@
 /ban 4xljhlas477451 Bot
 /ban 4xlmert171734 Bot
 /ban 4xlucas25104 Bot
+/ban 4xlwoutwiebe109 Bot
 /ban 4xmaryjane189 Bot
 /ban 4xmatteu0074 Bot
 /ban 4xmistymoo19 Bot
@@ -392,5 +393,4 @@
 /ban 5hcollin200131 Bot
 /ban 5hcssbb4life04 Bot
 /ban 5hctry2golf63 Bot
-ItsBoshyTime 14,3% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo07.txt

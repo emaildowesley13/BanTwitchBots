@@ -393,5 +393,4 @@
 /ban 6ynricardo1234 Bot
 /ban 6ynspeedy199256 Bot
 /ban 6yo3bb954c803 Bot
-ItsBoshyTime 23,8% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo11.txt
