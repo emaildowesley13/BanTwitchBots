@@ -393,5 +393,5 @@
 /ban wmanchester12388 Bot
 /ban wmanjo12239 Bot
 /ban wmatteu00718 Bot
-ItsBoshyTime 90,4"kkk" 
+ItsBoshyTime 90,4% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo39.txt

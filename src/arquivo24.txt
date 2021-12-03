@@ -391,5 +391,5 @@
 /ban hahombre123415 Bot
 /ban hanagytata9891 Bot
 /ban handersps313 Bot
-ItsBoshyTime 57,1"kkk" 
+ItsBoshyTime 57,1% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo25.txt

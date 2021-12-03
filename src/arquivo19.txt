@@ -393,5 +393,5 @@
 /ban bk210985hjvfy3 Bot
 /ban bk250599qq8 Bot
 /ban bk14091982k25 Bot
-ItsBoshyTime 45,2"kkk" 
+ItsBoshyTime 45,2% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo20.txt

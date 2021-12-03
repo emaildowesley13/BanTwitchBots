@@ -393,5 +393,5 @@
 /ban cloli12340 Bot
 /ban clrodrigo200284 Bot
 /ban cltrooper71 Bot
-ItsBoshyTime 47,6"kkk" 
+ItsBoshyTime 47,6% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo21.txt

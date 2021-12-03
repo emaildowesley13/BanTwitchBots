@@ -393,5 +393,5 @@
 /ban drcaiman1237 Bot
 /ban drcdrom1337 Bot
 /ban dreevis1790 Bot
-ItsBoshyTime 50,0"kkk" 
+ItsBoshyTime 50,0% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo22.txt

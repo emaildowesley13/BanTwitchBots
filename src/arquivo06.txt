@@ -392,5 +392,5 @@
 /ban 5hcollin200131 Bot
 /ban 5hcssbb4life04 Bot
 /ban 5hctry2golf63 Bot
-ItsBoshyTime 14,3"kkk" 
+ItsBoshyTime 14,3% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo07.txt

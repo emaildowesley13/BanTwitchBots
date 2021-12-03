@@ -393,5 +393,5 @@
 /ban jdntinosgate72 Bot
 /ban jdoena500005 Bot
 /ban jdpedersen15 Bot
-ItsBoshyTime 61,9"kkk" 
+ItsBoshyTime 61,9% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo27.txt

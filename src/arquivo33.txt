@@ -393,5 +393,5 @@
 /ban qxremorse089 Bot
 /ban qxsertyu23228 Bot
 /ban qxtct8xfqj1 Bot
-ItsBoshyTime 78,5"kkk" 
+ItsBoshyTime 78,5% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo34.txt

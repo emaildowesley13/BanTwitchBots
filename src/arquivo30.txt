@@ -391,5 +391,5 @@
 /ban nmenina0918 Bot
 /ban nmert171763 Bot
 /ban nmetall1234512 Bot
-ItsBoshyTime 71,4"kkk" 
+ItsBoshyTime 71,4% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo31.txt

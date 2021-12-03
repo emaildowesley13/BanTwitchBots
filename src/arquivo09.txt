@@ -393,5 +393,5 @@
 /ban 6odp1220096 Bot
 /ban 6oeelopento2206 Bot
 /ban 6oepanzer22201 Bot
-ItsBoshyTime 21,4"kkk" 
+ItsBoshyTime 21,4% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo10.txt

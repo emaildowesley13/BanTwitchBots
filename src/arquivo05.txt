@@ -393,5 +393,5 @@
 /ban 4wrino101919930 Bot
 /ban 4wsoulcalibur74656 Bot
 /ban 4wstarwars25 Bot
-ItsBoshyTime 11,9"kkk" 
+ItsBoshyTime 11,9% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo06.txt

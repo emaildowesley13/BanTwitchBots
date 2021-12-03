@@ -393,5 +393,5 @@
 /ban 5rvikzil1234 Bot
 /ban 5rwfabian199787 Bot
 /ban 5s21092002a74 Bot
-ItsBoshyTime 16,7"kkk" 
+ItsBoshyTime 16,7% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo08.txt

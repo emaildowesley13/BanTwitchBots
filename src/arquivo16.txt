@@ -393,5 +393,5 @@
 /ban 9ilbernardo224 Bot
 /ban 9incokita2a80 Bot
 /ban 9inkeilapapa1a17 Bot
-ItsBoshyTime 38,1"kkk" 
+ItsBoshyTime 38,1% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo17.txt

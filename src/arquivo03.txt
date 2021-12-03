@@ -393,5 +393,5 @@
 /ban 3opadams20003 Bot
 /ban 3ophialter17 Bot
 /ban 3opoxex99665 Bot
-ItsBoshyTime 7,1"kkk" 
+ItsBoshyTime 7,1% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo04.txt

@@ -393,5 +393,5 @@
 /ban prjaffar943 Bot
 /ban prjaredk129 Bot
 /ban prodolfin981 Bot
-ItsBoshyTime 76,2"kkk" 
+ItsBoshyTime 76,2% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo33.txt

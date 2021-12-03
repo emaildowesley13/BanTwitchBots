@@ -393,5 +393,5 @@
 /ban vkrafa1311880 Bot
 /ban vktirano19874 Bot
 /ban vlad_3121 Bot
-ItsBoshyTime 88,1"kkk" 
+ItsBoshyTime 88,1% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo38.txt

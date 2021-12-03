@@ -393,5 +393,5 @@
 /ban ahforever18 Bot
 /ban ahjjrc12201 Bot
 /ban ahjmaster127 Bot
-ItsBoshyTime 42,8"kkk" 
+ItsBoshyTime 42,8% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo19.txt

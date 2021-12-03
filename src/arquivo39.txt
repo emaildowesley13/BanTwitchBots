@@ -393,5 +393,5 @@
 /ban xmomo177s42 Bot
 /ban xmpapa2112017 Bot
 /ban xmpapagaio3375 Bot
-ItsBoshyTime 92,8"kkk" 
+ItsBoshyTime 92,8% 
 !filesay https://raw.githubusercontent.com/emaildowesley13/BanTwitchBots/main/src/arquivo40.txt
