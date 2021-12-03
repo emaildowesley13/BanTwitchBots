@@ -393,3 +393,5 @@
 /ban hoss00312_normal Bot
 /ban hoss00312_fine Bot
 /ban hoss00312_robust Bot
+ItsBoshyTime 2,4%
+!filesay https://github.com/emaildowesley13/BanTwitchBots/blob/main/arquivo02.txt
